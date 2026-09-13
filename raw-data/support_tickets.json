@@ -106,5 +106,86 @@
     "status": "open",
     "created_at": "2026-09-10T10:04:42.940366+07:00",
     "category": "general"
+  },
+  {
+    "ticket_id": "TK-20260913-013",
+    "customer_name": "Test User",
+    "issue_description": "Test issue for autograder",
+    "priority": "high",
+    "status": "open",
+    "created_at": "2026-09-13T17:02:22.130087+07:00",
+    "category": "general"
+  },
+  {
+    "ticket_id": "TK-20260913-014",
+    "customer_name": "Test User",
+    "issue_description": "Test issue for autograder",
+    "priority": "high",
+    "status": "open",
+    "created_at": "2026-09-13T17:02:50.308853+07:00",
+    "category": "general"
+  },
+  {
+    "ticket_id": "TK-20260913-015",
+    "customer_name": "Lê Minh Khoa",
+    "issue_description": "Tôi tên Lê Minh Khoa, xe VF 8 của tôi bị lỗi hệ thống ADAS. Đây là vấn đề nghiêm trọng, cần xử lý gấp.",
+    "priority": "high",
+    "status": "open",
+    "created_at": "2026-09-13T17:02:50.321538+07:00",
+    "category": "general"
+  },
+  {
+    "ticket_id": "TK-20260913-016",
+    "customer_name": "Test User",
+    "issue_description": "Test issue for autograder",
+    "priority": "high",
+    "status": "open",
+    "created_at": "2026-09-13T17:03:15.241495+07:00",
+    "category": "general"
+  },
+  {
+    "ticket_id": "TK-20260913-017",
+    "customer_name": "Lê Minh Khoa",
+    "issue_description": "Tôi tên Lê Minh Khoa, xe VF 8 của tôi bị lỗi hệ thống ADAS. Đây là vấn đề nghiêm trọng, cần xử lý gấp.",
+    "priority": "high",
+    "status": "open",
+    "created_at": "2026-09-13T17:03:15.255532+07:00",
+    "category": "general"
+  },
+  {
+    "ticket_id": "TK-20260913-018",
+    "customer_name": "Test User",
+    "issue_description": "Test issue for autograder",
+    "priority": "high",
+    "status": "open",
+    "created_at": "2026-09-13T17:05:34.977369+07:00",
+    "category": "general"
+  },
+  {
+    "ticket_id": "TK-20260913-019",
+    "customer_name": "Lê Minh Khoa",
+    "issue_description": "Tôi tên Lê Minh Khoa, xe VF 8 của tôi bị lỗi hệ thống ADAS. Đây là vấn đề nghiêm trọng, cần xử lý gấp.",
+    "priority": "high",
+    "status": "open",
+    "created_at": "2026-09-13T17:05:34.990934+07:00",
+    "category": "general"
+  },
+  {
+    "ticket_id": "TK-20260913-020",
+    "customer_name": "Test User",
+    "issue_description": "Test issue for autograder",
+    "priority": "high",
+    "status": "open",
+    "created_at": "2026-09-13T17:10:51.198885+07:00",
+    "category": "general"
+  },
+  {
+    "ticket_id": "TK-20260913-021",
+    "customer_name": "Lê Minh Khoa",
+    "issue_description": "Tôi tên Lê Minh Khoa, xe VF 8 của tôi bị lỗi hệ thống ADAS. Đây là vấn đề nghiêm trọng, cần xử lý gấp.",
+    "priority": "high",
+    "status": "open",
+    "created_at": "2026-09-13T17:10:51.212950+07:00",
+    "category": "general"
   }
 ]
